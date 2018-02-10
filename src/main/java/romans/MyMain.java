@@ -11,7 +11,7 @@ public class MyMain {
 		int counter = 0;
 		
 		do {
-			logger.info("XXXXXXX YYY: "+counter);
+			logger.info("XXXXXXX YYY ZZZ: "+counter);
 			counter++;
 			try {
 				Thread.sleep(1000L);
